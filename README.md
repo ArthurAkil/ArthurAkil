@@ -12,7 +12,7 @@
 ## 🛠️ Languages and Tools:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,git,github" alt=""/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,figma,py,java,django,mysql,postgres,linux,windows,git,github,eclipse,idea,vscode" alt=""/>
 </div>
 <br>
 
